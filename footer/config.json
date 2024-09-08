@@ -1,6 +1,10 @@
 [
   {
-    "title": "Homepage",
-    "links": [{ "text": "Homepage", "url": "https://portaltobitcoin.com/" }]
+    "title": "Blockscout",
+    "links": [
+      { "text": "Submit an issue", "url": "https://portaltobitcoin.com/" },
+      { "text": "Github", "url": "https://github.com/Portaldefi" },
+      { "text": "X (ex-Twitter)", "url": "https://x.com/PortaltoBitcoin" }
+    ]
   }
 ]
