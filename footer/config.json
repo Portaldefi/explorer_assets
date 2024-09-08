@@ -1,1 +1,6 @@
-[{ "text": "Homepage", "url": "https://portaltobitcoin.com/" }]
+[
+  {
+    "title": "Homepage",
+    "links": [{ "text": "Homepage", "url": "https://portaltobitcoin.com/" }]
+  }
+]
